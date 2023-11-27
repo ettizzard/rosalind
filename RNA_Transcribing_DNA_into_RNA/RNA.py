@@ -1,6 +1,6 @@
 #!usr/bin/python3
 
-with open("/workspaces/rosalind/RNA_Transcribing_DNA_into_RNA/rosalind_dna.txt", "r"rosalind_rna.txt", "r") as dataset:
+with open("/workspaces/rosalind/RNA_Transcribing_DNA_into_RNA/rosalind_dna.txt", "r") as dataset:
     
     DNAseq = dataset.read()
     
